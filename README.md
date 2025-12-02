@@ -1,4 +1,5 @@
 Fraud Detection in Financial Transactions – Data Science Project
+
 📌 Overview
 
 This project focuses on building machine learning models to detect fraudulent credit card transactions. Fraud detection is a critical task due to the massive imbalance between legitimate and fraudulent transactions. The project covers the full data science workflow—data loading, cleaning, EDA, modelling, and evaluation using industry-standard metrics.
